@@ -1,0 +1,13 @@
+current directory: /home/grid22/Ruby/project/toy_app/vendor/cache/ruby/2.3.0/gems/json-1.8.6/ext/json
+/home/grid22/.rvm/rubies/ruby-2.3.3/bin/ruby -I /home/grid22/.rvm/rubies/ruby-2.3.3/lib/ruby/site_ruby/2.3.0 -r ./siteconf20191007-16413-11h42xf.rb extconf.rb
+creating Makefile
+
+current directory: /home/grid22/Ruby/project/toy_app/vendor/cache/ruby/2.3.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+
+current directory: /home/grid22/Ruby/project/toy_app/vendor/cache/ruby/2.3.0/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: Ціль "all" не вимагає виконання команд.
+
+current directory: /home/grid22/Ruby/project/toy_app/vendor/cache/ruby/2.3.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" install
